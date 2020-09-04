@@ -1,1 +1,1 @@
-# Student-Stress-Prediction
+# Student Stress Prediction Android App
